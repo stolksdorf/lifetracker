@@ -1,0 +1,4 @@
+cron:
+- description: send a new batch of queries
+  url: /sendQueries
+  schedule: every 1 minutes
